@@ -1,0 +1,1001 @@
+competition_id,competition_name,category_name
+sr:competition:620,"Hopman Cup","Hopman Cup"
+sr:competition:660,"World Team Cup",ATP
+sr:competition:990,"ATP Challenger Tour Finals",Challenger
+sr:competition:1207,"Championship International Series",WTA
+sr:competition:2100,"Davis Cup","Davis Cup"
+sr:competition:2102,"Billie Jean King Cup","Billie Jean King Cup"
+sr:competition:2555,"Wimbledon Men Singles",ATP
+sr:competition:2557,"Wimbledon Men Doubles",ATP
+sr:competition:2559,"Wimbledon Women Singles",WTA
+sr:competition:2561,"Wimbledon Women Doubles",WTA
+sr:competition:2563,"Wimbledon Mixed Doubles",ATP
+sr:competition:2567,"Australian Open Men Singles",ATP
+sr:competition:2569,"Australian Open Men Doubles",ATP
+sr:competition:2571,"Australian Open Women Singles",WTA
+sr:competition:2573,"Australian Open Women Doubles",WTA
+sr:competition:2575,"Australian Open Mixed Doubles",ATP
+sr:competition:2579,"French Open Men Singles",ATP
+sr:competition:2581,"French Open Men Doubles",ATP
+sr:competition:2583,"French Open Women Singles",WTA
+sr:competition:2585,"French Open Women Doubles",WTA
+sr:competition:2587,"French Open Mixed Doubles",ATP
+sr:competition:2591,"US Open Men Singles",ATP
+sr:competition:2593,"US Open Men Doubles",ATP
+sr:competition:2595,"US Open Women Singles",WTA
+sr:competition:2597,"US Open Women Doubles",WTA
+sr:competition:2599,"US Open Mixed Doubles",ATP
+sr:competition:2603,"ATP Doha, Qatar Men Singles",ATP
+sr:competition:2605,"ATP Doha, Qatar Men Doubles",ATP
+sr:competition:2613,"ATP Basel, Switzerland Men Singles",ATP
+sr:competition:2615,"ATP Basel, Switzerland Men Doubles",ATP
+sr:competition:2619,"ATP Brisbane, Australia Men Singles",ATP
+sr:competition:2621,"ATP Brisbane, Australia Men Doubles",ATP
+sr:competition:2625,"ATP Chennai, India Men Singles",ATP
+sr:competition:2627,"ATP Chennai, India Men Doubles",ATP
+sr:competition:2631,"ATP Auckland, New Zealand Men Singles",ATP
+sr:competition:2633,"ATP Auckland, New Zealand Men Doubles",ATP
+sr:competition:2637,"ATP Sydney, Australia Men Singles",ATP
+sr:competition:2639,"ATP Sydney, Australia Men Doubles",ATP
+sr:competition:2649,"ATP Zagreb, Croatia Men Singles",ATP
+sr:competition:2651,"ATP Zagreb, Croatia Men Double",ATP
+sr:competition:2661,"ATP Paris, France Men Singles",ATP
+sr:competition:2663,"ATP Paris, France Men Doubles",ATP
+sr:competition:2667,"ATP Dubai, UAE Men Singles",ATP
+sr:competition:2669,"ATP Dubai, UAE Men Doubles",ATP
+sr:competition:2673,"WTA Pattaya City, Thailand Women Singles",WTA
+sr:competition:2675,"WTA Pattaya City, Thailand Women Doubles",WTA
+sr:competition:2679,"ATP Rotterdam, Netherlands Men Singles",ATP
+sr:competition:2681,"ATP Rotterdam, Netherlands Men Doubles",ATP
+sr:competition:2697,"ATP Memphis, USA Men Singles",ATP
+sr:competition:2699,"ATP Memphis, USA Men Doubles",ATP
+sr:competition:2703,"WTA Bogota, Colombia Women Singles",WTA
+sr:competition:2705,"WTA Bogota, Colombia Women Doubles",WTA
+sr:competition:2709,"ATP Acapulco, Mexico Men Singles",ATP
+sr:competition:2711,"ATP Acapulco, Mexico Men Doubles",ATP
+sr:competition:2715,"WTA Monterrey, Mexico Women Singles",WTA
+sr:competition:2717,"WTA Monterrey, Mexico Women Doubles",WTA
+sr:competition:2721,"ATP Marseille, France Men Singles",ATP
+sr:competition:2723,"ATP Marseille, France Men Doubles",ATP
+sr:competition:2727,"ATP Buenos Aires, Argentina Men Singles",ATP
+sr:competition:2729,"ATP Buenos Aires, Argentina Men Doubles",ATP
+sr:competition:2733,"ATP Delray Beach, USA Men Singles",ATP
+sr:competition:2735,"ATP Delray Beach, USA Men Doubles",ATP
+sr:competition:2739,"ATP Indian Wells, USA Men Singles",ATP
+sr:competition:2741,"ATP Indian Wells, USA Men Doubles",ATP
+sr:competition:2745,"ATP Miami, USA Men Singles",ATP
+sr:competition:2747,"ATP Miami, USA Men Doubles",ATP
+sr:competition:2751,"ATP Houston, USA Men Singles",ATP
+sr:competition:2753,"ATP Houston, USA Men Doubles",ATP
+sr:competition:2757,"ATP Casablanca, Morocco Men Singles",ATP
+sr:competition:2759,"ATP Casablanca, Morocco Men Doubles",ATP
+sr:competition:2763,"WTA Charleston, USA Women Singles",WTA
+sr:competition:2765,"WTA Charleston, USA Women Doubles",WTA
+sr:competition:2769,"ATP Barcelona, Spain Men Singles",ATP
+sr:competition:2771,"ATP Barcelona, Spain Men Doubles",ATP
+sr:competition:2775,"ATP Stuttgart, Germany Men Singles",ATP
+sr:competition:2777,"ATP Stuttgart, Germany Men Doubles",ATP
+sr:competition:2781,"ATP Rome, Italy Men Singles",ATP
+sr:competition:2783,"ATP Rome, Italy Men Doubles",ATP
+sr:competition:2787,"ATP Madrid, Spain Men Singles",ATP
+sr:competition:2789,"ATP Madrid, Spain Men Doubles",ATP
+sr:competition:2793,"Berlin, Germany Women Singles",WTA
+sr:competition:2795,"Berlin, Germany Women Doubles",WTA
+sr:competition:2805,"WTA Hobart, Australia Women Singles",WTA
+sr:competition:2807,"WTA Hobart, Australia Women Doubles",WTA
+sr:competition:2817,"WTA Marrakech, Morocco Women Singles",WTA
+sr:competition:2819,"WTA Marrakech, Morocco Women Doubles",WTA
+sr:competition:2823,"WTA Strasbourg, France Women Singles",WTA
+sr:competition:2825,"WTA Strasbourg, France Women Doubles",WTA
+sr:competition:2829,"ATP Challenger Amersfoort, Netherlands Men Singles",Challenger
+sr:competition:2831,"ATP Challenger Amersfoort, Netherlands Men Doubles",Challenger
+sr:competition:2835,"ATP Munich, Germany Men Singles",ATP
+sr:competition:2837,"ATP Munich, Germany Men Doubles",ATP
+sr:competition:2853,"WTA Birmingham, Great Britain Women Singles",WTA
+sr:competition:2855,"WTA Birmingham, Great Britain Women Doubles",WTA
+sr:competition:2859,"ATP Halle, Germany Men Singles",ATP
+sr:competition:2861,"ATP Halle, Germany Men Doubles",ATP
+sr:competition:2865,"ATP London, Great Britain Men Singles",ATP
+sr:competition:2867,"ATP London, Great Britain Men Doubles",ATP
+sr:competition:2871,"ATP S-Hertogenbosch, Netherlands Men Singles",ATP
+sr:competition:2873,"ATP S-Hertogenbosch, Netherlands Men Doubles",ATP
+sr:competition:2877,"WTA Eastbourne, Great Britain Women Singles",WTA
+sr:competition:2879,"WTA Eastbourne, Great Britain Women Doubles",WTA
+sr:competition:2883,"ATP Newport, USA Men Singles",ATP
+sr:competition:2885,"ATP Newport, USA Men Doubles",ATP
+sr:competition:2889,"ATP Bastad, Sweden Men Singles",ATP
+sr:competition:2891,"ATP Bastad, Sweden Men Doubles",ATP
+sr:competition:2895,"WTA Budapest, Hungary Women Singles",WTA
+sr:competition:2897,"WTA Budapest, Hungary Women Doubles",WTA
+sr:competition:2901,"WTA Palermo, Italy Women Singles",WTA
+sr:competition:2903,"WTA Palermo, Italy Women Doubles",WTA
+sr:competition:2907,"WTA Prague, Czech Republic Women Singles",WTA
+sr:competition:2909,"WTA Prague, Czech Republic Women Doubles",WTA
+sr:competition:2913,"Portoroz, Slovenia Women Singles",WTA
+sr:competition:2915,"Portoroz, Slovenia Women Doubles",WTA
+sr:competition:2935,"ATP Hamburg, Germany Men Singles",ATP
+sr:competition:2937,"ATP Hamburg, Germany Men Doubles",ATP
+sr:competition:2941,"WTA San Jose, USA Women Singles",WTA
+sr:competition:2943,"WTA San Jose, USA Women Doubles",WTA
+sr:competition:2947,"WTA Istanbul, Turkey Women Singles",WTA
+sr:competition:2949,"WTA Istanbul, Turkey Women Doubles",WTA
+sr:competition:2959,"ATP Gstaad, Switzerland Men Singles",ATP
+sr:competition:2961,"ATP Gstaad, Switzerland Men Doubles",ATP
+sr:competition:2965,"ATP Umag, Croatia Men Singles",ATP
+sr:competition:2967,"ATP Umag, Croatia Men Doubles",ATP
+sr:competition:2971,"ATP Washington, USA Men Singles",ATP
+sr:competition:2973,"ATP Washington, USA Men Doubles",ATP
+sr:competition:2977,"WTA Montreal, Canada Women Singles",WTA
+sr:competition:2979,"WTA Montreal, Canada Women Doubles",WTA
+sr:competition:2983,"ATP Cincinnati, USA Men Singles",ATP
+sr:competition:2985,"ATP Cincinnati, USA Men Doubles",ATP
+sr:competition:2989,"WTA New Haven, USA Women Singles",WTA
+sr:competition:2991,"WTA New Haven, USA Women Doubles",WTA
+sr:competition:2995,"ATP Toronto, Canada Men Singles",ATP
+sr:competition:2997,"ATP Toronto, Canada Men Doubles",ATP
+sr:competition:3001,"ATP Metz, France Men Singles",ATP
+sr:competition:3003,"ATP Metz, France Men Doubles",ATP
+sr:competition:3007,"ATP Bucharest, Romania Men Singles",ATP
+sr:competition:3009,"ATP Bucharest, Romania Men Doubles",ATP
+sr:competition:3013,"WTA Guangzhou, China Women Singles",WTA
+sr:competition:3015,"WTA Guangzhou, China Women Doubles",WTA
+sr:competition:3025,"ATP Beijing, China Men Singles",ATP
+sr:competition:3027,"ATP Beijing, China Men Doubles",ATP
+sr:competition:3031,"ATP Tokyo, Japan Men Singles",ATP
+sr:competition:3033,"ATP Tokyo, Japan Men Doubles",ATP
+sr:competition:3037,"WTA Quebec City, Canada Women Singles",WTA
+sr:competition:3039,"WTA Quebec City, Canada Women Doubles",WTA
+sr:competition:3043,"WTA Seoul, Korea Republic Women Singles",WTA
+sr:competition:3045,"WTA Seoul, Korea Republic Women Doubles",WTA
+sr:competition:3049,"WTA Tashkent, Uzbekistan Women Singles",WTA
+sr:competition:3051,"WTA Tashkent, Uzbekistan Women Doubles",WTA
+sr:competition:3055,"WTA Linz, Austria Women Singles",WTA
+sr:competition:3057,"WTA Linz, Austria Women Doubles",WTA
+sr:competition:3061,"WTA Osaka, Japan Women Singles",WTA
+sr:competition:3063,"WTA Osaka, Japan Women Doubles",WTA
+sr:competition:3067,"ATP Moscow, Russia Men Singles",ATP
+sr:competition:3069,"ATP Moscow, Russia Men Doubles",ATP
+sr:competition:3073,"WTA Luxembourg, Luxembourg Women Singles",WTA
+sr:competition:3075,"WTA Luxembourg, Luxembourg Women Doubles",WTA
+sr:competition:3085,"ATP Shanghai, China Men Singles",ATP
+sr:competition:3087,"ATP Shanghai, China Men Doubles",ATP
+sr:competition:3091,"ATP Stockholm, Sweden Men Singles",ATP
+sr:competition:3093,"ATP Stockholm, Sweden Men Doubles",ATP
+sr:competition:3097,"ATP Lyon, France Men Singles",ATP
+sr:competition:3099,"ATP Lyon, France Men Doubles",ATP
+sr:competition:3103,"ATP Vienna, Austria Men Singles",ATP
+sr:competition:3105,"ATP Vienna, Austria Men Doubles",ATP
+sr:competition:3109,"ATP St. Petersburg, Russia Men Singles",ATP
+sr:competition:3111,"ATP St. Petersburg, Russia Men Doubles",ATP
+sr:competition:3121,"ATP Monte Carlo, Monaco Men Singles",ATP
+sr:competition:3123,"ATP Monte Carlo, Monaco Men Doubles",ATP
+sr:competition:3145,"WTA Antwerp, Belgium Women Singles",WTA
+sr:competition:3147,"WTA Antwerp, Belgium Women Doubles",WTA
+sr:competition:3151,"ATP Kitzbuhel, Austria Men Singles",ATP
+sr:competition:3153,"ATP Kitzbuhel, Austria Men Doubles",ATP
+sr:competition:3163,"San Diego, USA Women Singles",WTA
+sr:competition:3165,"San Diego, USA Women Doubles",WTA
+sr:competition:3181,"ATP Nottingham, Great Britain Men Singles",ATP
+sr:competition:3183,"ATP Nottingham, Great Britain Men Doubles",ATP
+sr:competition:3215,"ATP Challenger Charlottesville, USA Men Doubles",Challenger
+sr:competition:3217,"ATP Challenger Charlottesville, USA Men Singles",Challenger
+sr:competition:3221,"ATP Challenger Noumea, New Caledonia Men Singles",Challenger
+sr:competition:3223,"ATP Challenger Noumea, New Caledonia Men Doubles",Challenger
+sr:competition:3227,"ATP Challenger Sao Paulo, Brazil Men Singles",Challenger
+sr:competition:3229,"ATP Challenger Sao Paulo, Brazil Men Doubles",Challenger
+sr:competition:3233,"ATP Challenger Salinas, Ecuador Men Singles",Challenger
+sr:competition:3235,"ATP Challenger Salinas, Ecuador Men Doubles",Challenger
+sr:competition:3239,"ATP Santiago, Chile Men Singles",ATP
+sr:competition:3241,"ATP Santiago, Chile Men Doubles",ATP
+sr:competition:3245,"ATP Atlanta, USA Men Singles",ATP
+sr:competition:3247,"ATP Atlanta, USA Men Doubles",ATP
+sr:competition:3251,"ATP Belgrade, Serbia Men Singles",ATP
+sr:competition:3253,"ATP Belgrade, Serbia Men Doubles",ATP
+sr:competition:3257,"ATP Kuala Lumpur, Malaysia Men Singles",ATP
+sr:competition:3259,"ATP Kuala Lumpur, Malaysia Men Doubles",ATP
+sr:competition:3263,"ATP Nice, France Men Singles",ATP
+sr:competition:3265,"ATP Nice, France Men Doubles",ATP
+sr:competition:3281,"ATP Challenger Barletta, Italy Men Singles",Challenger
+sr:competition:3283,"ATP Challenger Barletta, Italy Men Doubles",Challenger
+sr:competition:3287,"ATP Challenger Bergamo, Italy Men Singles",Challenger
+sr:competition:3289,"ATP Challenger Bergamo, Italy Men Doubles",Challenger
+sr:competition:3293,"ATP Challenger Floridablanca-Bucaramanga, Colombia Men Singles",Challenger
+sr:competition:3295,"ATP Challenger Floridablanca-Bucaramanga, Colombia Men Doubles",Challenger
+sr:competition:3299,"ATP Challenger Heilbronn, Germany Men Singles",Challenger
+sr:competition:3301,"ATP Challenger Heilbronn, Germany Men Doubles",Challenger
+sr:competition:3311,"ATP Challenger Burnie, Australia Men Singles",Challenger
+sr:competition:3313,"ATP Challenger Burnie, Australia Men Doubles",Challenger
+sr:competition:3321,"ATP Challenger Caltanissetta, Italy Men Singles",Challenger
+sr:competition:3323,"ATP Challenger Caltanissetta, Italy Men Doubles",Challenger
+sr:competition:3327,"ATP Challenger Cherbourg, France Men Singles",Challenger
+sr:competition:3329,"ATP Challenger Cherbourg, France Men Doubles",Challenger
+sr:competition:3343,"ATP Challenger Kazan, Russia Men Singles",Challenger
+sr:competition:3345,"ATP Challenger Kazan, Russia Men Doubles",Challenger
+sr:competition:3349,"ATP Challenger Kyoto, Japan Men Singles",Challenger
+sr:competition:3351,"ATP Challenger Kyoto, Japan Men Doubles",Challenger
+sr:competition:3367,"ATP Challenger Meknes, Morocco Men Singles",Challenger
+sr:competition:3369,"ATP Challenger Meknes, Morocco Men Doubles",Challenger
+sr:competition:3379,"ATP Challenger San Luis Potosi, Mexico Men Singles",Challenger
+sr:competition:3381,"ATP Challenger San Luis Potosi, Mexico Men Doubles",Challenger
+sr:competition:3391,"ATP Challenger St. Brieuc, France Men Singles",Challenger
+sr:competition:3393,"ATP Challenger St. Brieuc, France Men Doubles",Challenger
+sr:competition:3425,"ATP Challenger Biella, Italy Men Singles",Challenger
+sr:competition:3427,"ATP Challenger Biella, Italy Men Doubles",Challenger
+sr:competition:3431,"ATP Challenger Blumenau, Brazil Men Singles",Challenger
+sr:competition:3433,"ATP Challenger Blumenau, Brazil Men Doubles",Challenger
+sr:competition:3437,"ATP Challenger Bordeaux, France Men Singles",Challenger
+sr:competition:3439,"ATP Challenger Bordeaux, France Men Doubles",Challenger
+sr:competition:3447,"ATP Challenger Busan, Korea Republic Men Singles",Challenger
+sr:competition:3449,"ATP Challenger Busan, Korea Republic Men Doubles",Challenger
+sr:competition:3453,"ATP Challenger Cairo, Egypt Men Singles",Challenger
+sr:competition:3455,"ATP Challenger Cairo, Egypt Men Doubles",Challenger
+sr:competition:3469,"ATP Challenger Fergana, Uzbekistan Men Singles",Challenger
+sr:competition:3471,"ATP Challenger Fergana, Uzbekistan Men Doubles",Challenger
+sr:competition:3475,"ATP Challenger Furth, Germany Men Singles",Challenger
+sr:competition:3477,"ATP Challenger Furth, Germany Men Doubles",Challenger
+sr:competition:3481,"ATP Challenger Leon, Mexico Men Singles",Challenger
+sr:competition:3483,"ATP Challenger Leon, Mexico Men Doubles",Challenger
+sr:competition:3493,"ATP Challenger Monza, Italy Men Singles",Challenger
+sr:competition:3495,"ATP Challenger Monza, Italy Men Doubles",Challenger
+sr:competition:3499,"ATP Challenger Ostrava, Czech Republic Men Singles",Challenger
+sr:competition:3501,"ATP Challenger Ostrava, Czech Republic Men Doubles",Challenger
+sr:competition:3505,"ATP Challenger Pereira, Colombia Men Singles",Challenger
+sr:competition:3507,"ATP Challenger Pereira, Colombia Men Doubles",Challenger
+sr:competition:3511,"ATP Challenger Prostejov, Czech Republic Men Singles",Challenger
+sr:competition:3513,"ATP Challenger Prostejov, Czech Republic Men Doubles",Challenger
+sr:competition:3525,"ATP Challenger San Remo, Italy Men Singles",Challenger
+sr:competition:3529,"ATP Challenger Sarasota, USA Men Singles",Challenger
+sr:competition:3531,"ATP Challenger Sarasota, USA Men Doubles",Challenger
+sr:competition:3535,"ATP Challenger Savannah, USA Men Singles",Challenger
+sr:competition:3537,"ATP Challenger Savannah, USA Men Doubles",Challenger
+sr:competition:3541,"ATP Challenger Tallahassee, USA Men Singles",Challenger
+sr:competition:3543,"ATP Challenger Tallahassee, USA Men Doubles",Challenger
+sr:competition:3547,"ATP Challenger Tunis, Tunisia Men Singles",Challenger
+sr:competition:3549,"ATP Challenger Tunis, Tunisia Men Doubles",Challenger
+sr:competition:3553,"ATP Challenger Aptos, USA Men Singles",Challenger
+sr:competition:3555,"ATP Challenger Aptos, USA Men Doubles",Challenger
+sr:competition:3571,"ATP Challenger Braunschweig, Germany Men Singles",Challenger
+sr:competition:3573,"ATP Challenger Braunschweig, Germany Men Doubles",Challenger
+sr:competition:3581,"ATP Challenger Cordenons, Italy Men Singles",Challenger
+sr:competition:3583,"ATP Challenger Cordenons, Italy Men Doubles",Challenger
+sr:competition:3587,"ATP Challenger Granby, Canada Men Singles",Challenger
+sr:competition:3589,"ATP Challenger Granby, Canada Men Doubles",Challenger
+sr:competition:3599,"ATP Challenger Lexington, USA Men Singles",Challenger
+sr:competition:3601,"ATP Challenger Lexington, USA Men Doubles",Challenger
+sr:competition:3605,"ATP Challenger Lugano, Switzerland Men Singles",Challenger
+sr:competition:3609,"ATP Challenger Marburg, Germany Men Singles",Challenger
+sr:competition:3611,"ATP Challenger Marburg, Germany Men Doubles",Challenger
+sr:competition:3615,"ATP Challenger Milan, Italy Men Singles",Challenger
+sr:competition:3617,"ATP Challenger Milan, Italy Men Doubles",Challenger
+sr:competition:3643,"ATP Challenger Poznan, Poland Men Singles",Challenger
+sr:competition:3645,"ATP Challenger Poznan, Poland Men Doubles",Challenger
+sr:competition:3649,"ATP Challenger Pozoblanco, Spain Men Singles",Challenger
+sr:competition:3651,"ATP Challenger Pozoblanco, Spain Men Doubles",Challenger
+sr:competition:3655,"ATP Challenger Recanati, Italy Men Singles",Challenger
+sr:competition:3657,"ATP Challenger Recanati, Italy Men Doubles",Challenger
+sr:competition:3669,"ATP Challenger San Benedetto, Italy Men Singles",Challenger
+sr:competition:3671,"ATP Challenger San Benedetto, Italy Men Doubles",Challenger
+sr:competition:3675,"ATP Challenger Scheveningen, Netherlands Men Singles",Challenger
+sr:competition:3677,"ATP Challenger Scheveningen, Netherlands Men Doubles",Challenger
+sr:competition:3681,"ATP Challenger Tampere, Finland Men Singles",Challenger
+sr:competition:3683,"ATP Challenger Tampere, Finland Men Doubles",Challenger
+sr:competition:3687,"ATP Challenger Turin, Italy Men Singles",Challenger
+sr:competition:3689,"ATP Challenger Turin, Italy Men Doubles",Challenger
+sr:competition:3693,"ATP Challenger Winnetka, USA Men Singles",Challenger
+sr:competition:3695,"ATP Challenger Winnetka, USA Men Doubles",Challenger
+sr:competition:3709,"ATP Challenger San Marino, San Marino Men Singles",Challenger
+sr:competition:3711,"ATP Challenger San Marino, San Marino Men Doubles",Challenger
+sr:competition:3715,"ATP Challenger Segovia, Spain Men Singles",Challenger
+sr:competition:3717,"ATP Challenger Segovia, Spain Men Doubles",Challenger
+sr:competition:3721,"ATP Challenger Vancouver, Canada Men Singles",Challenger
+sr:competition:3723,"ATP Challenger Vancouver, Canada Men Doubles",Challenger
+sr:competition:3727,"ATP Challenger Binghamton, USA Men Singles",Challenger
+sr:competition:3729,"ATP Challenger Binghamton, USA Men Doubles",Challenger
+sr:competition:3733,"ATP Challenger Samarkand, Uzbekistan Men Singles",Challenger
+sr:competition:3735,"ATP Challenger Samarkand, Uzbekistan Men Doubles",Challenger
+sr:competition:3745,"ATP Challenger Karshi, Uzbekistan Men Singles",Challenger
+sr:competition:3747,"ATP Challenger Karshi, Uzbekistan Men Doubles",Challenger
+sr:competition:3751,"Salvador, Brazil Men Singles",Challenger
+sr:competition:3761,"ATP Challenger Almaty, Kazakhstan Men Singles",Challenger
+sr:competition:3777,"ATP Challenger Como, Italy Men Singles",Challenger
+sr:competition:3779,"ATP Challenger Como, Italy Men Doubles",Challenger
+sr:competition:3789,"ATP Challenger Alphen aan den Rijn, Netherlands Men Singles",Challenger
+sr:competition:3791,"ATP Challenger Alphen aan den Rijn, Netherlands Men Doubles",Challenger
+sr:competition:3795,"ATP Challenger Brasov, Romania Men Singles",Challenger
+sr:competition:3797,"ATP Challenger Brasov, Romania Men Doubles",Challenger
+sr:competition:3801,"ATP Challenger Genoa, Italy Men Singles",Challenger
+sr:competition:3803,"ATP Challenger Genoa, Italy Men Doubles",Challenger
+sr:competition:3813,"ATP Challenger Seville, Spain Men Singles",Challenger
+sr:competition:3815,"ATP Challenger Seville, Spain Men Doubles",Challenger
+sr:competition:3819,"ATP Challenger St. Remy, France Men Singles",Challenger
+sr:competition:3821,"ATP Challenger St. Remy, France Men Doubles",Challenger
+sr:competition:3825,"ATP Challenger Banja Luka, Bosnia & Herzegovina Men Singles",Challenger
+sr:competition:3827,"ATP Challenger Banja Luka, Bosnia & Herzegovina Men Doubles",Challenger
+sr:competition:3831,"ATP Challenger Szczecin, Poland Men Singles",Challenger
+sr:competition:3833,"ATP Challenger Szczecin, Poland Men Doubles",Challenger
+sr:competition:3837,"ATP Challenger Todi, Italy Men Singles",Challenger
+sr:competition:3839,"ATP Challenger Todi, Italy Men Doubles",Challenger
+sr:competition:3855,"ATP Challenger Trnava, Slovakia Men Singles",Challenger
+sr:competition:3857,"ATP Challenger Trnava, Slovakia Men Doubles",Challenger
+sr:competition:3861,"ATP Challenger Cali, Colombia Men Singles",Challenger
+sr:competition:3863,"ATP Challenger Cali, Colombia Men Doubles",Challenger
+sr:competition:3867,"ATP Challenger Montevideo, Uruguay Men Singles",Challenger
+sr:competition:3869,"ATP Challenger Montevideo, Uruguay Men Doubles",Challenger
+sr:competition:3873,"ATP Challenger Mons, Belgium Men Singles",Challenger
+sr:competition:3875,"ATP Challenger Mons, Belgium Men Doubles",Challenger
+sr:competition:3879,"ATP Challenger Quito, Ecuador Men Singles",Challenger
+sr:competition:3881,"ATP Challenger Quito, Ecuador Men Doubles",Challenger
+sr:competition:3899,"ATP Challenger Rennes, France Men Singles",Challenger
+sr:competition:3901,"ATP Challenger Rennes, France Men Doubles",Challenger
+sr:competition:3905,"ATP Challenger Tiburon, USA Men Singles",Challenger
+sr:competition:3907,"ATP Challenger Tiburon, USA Men Doubles",Challenger
+sr:competition:3915,"ATP Challenger Orleans, France Men Singles",Challenger
+sr:competition:3917,"ATP Challenger Orleans, France Men Doubles",Challenger
+sr:competition:3921,"ATP Challenger Astana, Kazakhstan Men Singles",Challenger
+sr:competition:3923,"ATP Challenger Astana, Kazakhstan Men Doubles",Challenger
+sr:competition:3927,"ATP Challenger Eckental, Germany Men Singles",Challenger
+sr:competition:3929,"ATP Challenger Eckental, Germany Men Doubles",Challenger
+sr:competition:3933,"ATP Challenger Medellin, Colombia Men Singles",Challenger
+sr:competition:3935,"ATP Challenger Medellin, Colombia Men Doubles",Challenger
+sr:competition:3945,"ATP Challenger Guayaquil, Ecuador Men Singles",Challenger
+sr:competition:3947,"ATP Challenger Guayaquil, Ecuador Men Doubles",Challenger
+sr:competition:3951,"ATP Challenger Knoxville, USA Men Singles",Challenger
+sr:competition:3953,"ATP Challenger Knoxville, USA Men Doubles",Challenger
+sr:competition:3957,"ATP Challenger Ortisei, Italy Men Singles",Challenger
+sr:competition:3959,"ATP Challenger Ortisei, Italy Men Doubles",Challenger
+sr:competition:3963,"ATP Challenger Bratislava, Slovakia Men Singles",Challenger
+sr:competition:3965,"ATP Challenger Bratislava, Slovakia Men Doubles",Challenger
+sr:competition:3975,"ATP Challenger Champaign, USA Men Singles",Challenger
+sr:competition:3977,"ATP Challenger Champaign, USA Men Doubles",Challenger
+sr:competition:3987,"ATP Challenger Helsinki, Finland Men Singles",Challenger
+sr:competition:3989,"ATP Challenger Helsinki, Finland Men Doubles",Challenger
+sr:competition:3993,"ATP Challenger Toyota, Japan Men Singles",Challenger
+sr:competition:3995,"ATP Challenger Toyota, Japan Men Doubles",Challenger
+sr:competition:3999,"ATP Montpellier, France Men Singles",ATP
+sr:competition:4001,"ATP Montpellier, France Men Doubles",ATP
+sr:competition:4011,"ATP Challenger Loughborough, Great Britain Men Singles",Challenger
+sr:competition:4013,"ATP Challenger Loughborough, Great Britain Men Doubles",Challenger
+sr:competition:4083,"ATP Challenger Buenos Aires, Argentina Men Singles",Challenger
+sr:competition:4085,"ATP Challenger Buenos Aires, Argentina Men Doubles",Challenger
+sr:competition:4143,"Dominican Republic F2 Men Singles","ITF Men"
+sr:competition:4145,"Dominican Republic F2 Men Doubles","ITF Men"
+sr:competition:4149,"ATP Challenger Santiago, Chile Men Singles",Challenger
+sr:competition:4151,"ATP Challenger Santiago, Chile Men Doubles",Challenger
+sr:competition:4185,"WTA Baku, Azerbaijan Women Singles",WTA
+sr:competition:4187,"WTA Baku, Azerbaijan Women Doubles",WTA
+sr:competition:4209,"ATP Challenger Quimper, France Men Singles",Challenger
+sr:competition:4211,"ATP Challenger Quimper, France Men Doubles",Challenger
+sr:competition:4221,"WTA Doha, Qatar Women Singles",WTA
+sr:competition:4223,"WTA Doha, Qatar Women Doubles",WTA
+sr:competition:4299,"ATP Challenger Le Gosier, Guadeloupe Men Singles",Challenger
+sr:competition:4301,"ATP Challenger Le Gosier, Guadeloupe Men Doubles",Challenger
+sr:competition:4311,"ATP Challenger Barranquilla, Colombia Men Singles",Challenger
+sr:competition:4313,"ATP Challenger Barranquilla, Colombia Men Doubles",Challenger
+sr:competition:4329,"ATP Winston Salem, USA Men Singles",ATP
+sr:competition:4331,"ATP Winston Salem, USA Men Doubles",ATP
+sr:competition:4393,"ITF Men Stuttgart-Stammheim, Germany Men Singles","ITF Men"
+sr:competition:4395,"ITF Men Stuttgart-Stammheim, Germany Men Doubles","ITF Men"
+sr:competition:4415,"ITF Women Kaarst, Germany Women Singles","ITF Women"
+sr:competition:4417,"ITF Women Kaarst, Germany Women Doubles","ITF Women"
+sr:competition:4489,"WTA Dubai, UAE Women Singles",WTA
+sr:competition:4491,"WTA Dubai, UAE Women Doubles",WTA
+sr:competition:4507,"ATP Challenger Bogota, Colombia Men Singles",Challenger
+sr:competition:4509,"ATP Challenger Bogota, Colombia Men Doubles",Challenger
+sr:competition:4531,"WTA Acapulco, Mexico Women Singles",WTA
+sr:competition:4533,"WTA Acapulco, Mexico Women Doubles",WTA
+sr:competition:4537,"ATP Challenger Casablanca, Morocco Men Singles",Challenger
+sr:competition:4539,"ATP Challenger Casablanca, Morocco Men Doubles",Challenger
+sr:competition:4559,"WTA Kuala Lumpur, Malaysia Women Singles",WTA
+sr:competition:4561,"WTA Kuala Lumpur, Malaysia Women Doubles",WTA
+sr:competition:4577,"ITF Men Cherkassy, Ukraine Men Singles","ITF Men"
+sr:competition:4579,"ITF Men Cherkassy, Ukraine Men Doubles","ITF Men"
+sr:competition:4589,"WTA Indian Wells, USA Women Singles",WTA
+sr:competition:4591,"WTA Indian Wells, USA Women Doubles",WTA
+sr:competition:4631,"ATP Challenger Guangzhou, China Men Singles",Challenger
+sr:competition:4633,"ATP Challenger Guangzhou, China Men Doubles",Challenger
+sr:competition:4637,"ITF Women Rabat, Morocco Women Singles","ITF Women"
+sr:competition:4639,"ITF Women Rabat, Morocco Women Doubles","ITF Women"
+sr:competition:4661,"Great Britain F4 Men Singles","ITF Men"
+sr:competition:4663,"Great Britain F4 Men Doubles","ITF Men"
+sr:competition:4667,"ITF Women Bath, Great Britain Women Singles","ITF Women"
+sr:competition:4669,"ITF Women Bath, Great Britain Women Doubles","ITF Women"
+sr:competition:4685,"ATP Challenger Santos, Brazil Men Singles",Challenger
+sr:competition:4687,"ATP Challenger Santos, Brazil Men Doubles",Challenger
+sr:competition:4691,"WTA Miami, USA Women Singles",WTA
+sr:competition:4693,"WTA Miami, USA Women Doubles",WTA
+sr:competition:4769,"ATP Challenger Rome, Italy Men Singles",Challenger
+sr:competition:4771,"ATP Challenger Rome, Italy Men Doubles",Challenger
+sr:competition:4775,"WTA Rome, Italy Women Singles",WTA
+sr:competition:4777,"WTA Rome, Italy Women Doubles",WTA
+sr:competition:4793,"ITF Men Vrsar, Croatia Men Singles","ITF Men"
+sr:competition:4795,"ITF Men Vrsar, Croatia Men Doubles","ITF Men"
+sr:competition:4811,"ITF Women Caracas, Venezuela Women Singles","ITF Women"
+sr:competition:4813,"ITF Women Caracas, Venezuela Women Doubles","ITF Women"
+sr:competition:4835,"ITF Women Bol, Croatia Women Singles","ITF Women"
+sr:competition:4837,"ITF Women Bol, Croatia Women Doubles","ITF Women"
+sr:competition:4847,"WTA Stuttgart, Germany Women Singles",WTA
+sr:competition:4849,"WTA Stuttgart, Germany Women Doubles",WTA
+sr:competition:4877,"Challenge Belgrade Men Singles",Challenger
+sr:competition:4879,"Challenge Belgrade Men Doubles",Challenger
+sr:competition:4907,"ATP Challenger Bangkok, Thailand Men Singles",Challenger
+sr:competition:4909,"ATP Challenger Bangkok, Thailand Men Doubles",Challenger
+sr:competition:4925,"WTA Madrid, Spain Women Singles",WTA
+sr:competition:4927,"WTA Madrid, Spain Women Doubles",WTA
+sr:competition:4931,"ATP Challenger Prague, Czech Republic Men Singles",Challenger
+sr:competition:4933,"ATP Challenger Prague, Czech Republic Men Doubles",Challenger
+sr:competition:4973,"ATP Challenger Zagreb, Croatia Men Singles",Challenger
+sr:competition:4975,"ATP Challenger Zagreb, Croatia Men Doubles",Challenger
+sr:competition:5167,"ATP Challenger Nottingham, Great Britain Men Singles",Challenger
+sr:competition:5169,"ATP Challenger Nottingham, Great Britain Men Doubles",Challenger
+sr:competition:5197,"ITF Women Bangkok, Thailand Women Singles","ITF Women"
+sr:competition:5199,"ITF Women Bangkok, Thailand Women Doubles","ITF Women"
+sr:competition:5239,"ITF Men Bytom, Poland Men Singles","ITF Men"
+sr:competition:5241,"ITF Men Bytom, Poland Men Doubles","ITF Men"
+sr:competition:5305,"ATP Challenger Guadalajara, Mexico Men Singles",Challenger
+sr:competition:5307,"ATP Challenger Guadalajara, Mexico Men Doubles",Challenger
+sr:competition:5407,"ITF Men Frinton, Great Britain Men Singles","ITF Men"
+sr:competition:5409,"ITF Men Frinton, Great Britain Men Doubles","ITF Men"
+sr:competition:5523,"ITF Men Izmir, Turkey Men Singles","ITF Men"
+sr:competition:5525,"ITF Men Izmir, Turkey Men Doubles","ITF Men"
+sr:competition:5559,"ITF Men Vierumaki, Finland Men Singles","ITF Men"
+sr:competition:5561,"ITF Men Vierumaki, Finland Men Doubles","ITF Men"
+sr:competition:5643,"ITF Women St. Petersburg, Russia Women Singles","ITF Women"
+sr:competition:5645,"ITF Women St. Petersburg, Russia Women Doubles","ITF Women"
+sr:competition:5693,"ITF Women Vinkovci, Croatia Women Singles","ITF Women"
+sr:competition:5695,"ITF Women Vinkovci, Croatia Women Doubles","ITF Women"
+sr:competition:5699,"ITF Women Mamaia, Romania Women Singles","ITF Women"
+sr:competition:5701,"ITF Women Mamaia, Romania Women Doubles","ITF Women"
+sr:competition:5755,"ITF Women Alphen aan den Rijn, Netherlands Women Singles","ITF Women"
+sr:competition:5757,"ITF Women Alphen aan den Rijn, Netherlands Women Doubles","ITF Women"
+sr:competition:5773,"ATP Challenger Madrid, Spain Men Singles",Challenger
+sr:competition:5775,"ATP Challenger Madrid, Spain Men Doubles",Challenger
+sr:competition:5779,"ATP Challenger Aguascalientes, Mexico Men Singles",Challenger
+sr:competition:5781,"ATP Challenger Aguascalientes, Mexico Men Doubles",Challenger
+sr:competition:5785,"ATP Challenger Campinas, Brazil Men Singles",Challenger
+sr:competition:5787,"ATP Challenger Campinas, Brazil Men Doubles",Challenger
+sr:competition:5791,"ATP Challenger Izmir, Turkey Men Singles",Challenger
+sr:competition:5793,"ATP Challenger Izmir, Turkey Men Doubles",Challenger
+sr:competition:5797,"ATP Challenger Ningbo, China Men Singles",Challenger
+sr:competition:5799,"ATP Challenger Ningbo, China Men Doubles",Challenger
+sr:competition:5803,"ATP Challenger Istanbul, Turkey Men Singles",Challenger
+sr:competition:5805,"ATP Challenger Istanbul, Turkey Men Doubles",Challenger
+sr:competition:5839,"ITF Women Redding, USA Women Doubles","ITF Women"
+sr:competition:5883,"USA F24 Men Singles","ITF Men"
+sr:competition:5885,"USA F24 Men Doubles","ITF Men"
+sr:competition:5901,"ATP Challenger Napoli, Italy Men Doubles",Challenger
+sr:competition:5903,"ATP Challenger Napoli, Italy Men Singles",Challenger
+sr:competition:5943,"WTA Tokyo, Japan Women Singles",WTA
+sr:competition:5945,"WTA Tokyo, Japan Women Doubles",WTA
+sr:competition:5955,"ITF Men Leimen, Germany Men Singles","ITF Men"
+sr:competition:5957,"ITF Men Leimen, Germany Men Doubles","ITF Men"
+sr:competition:5973,"ITF Women Dobrich, Bulgaria Women Singles","ITF Women"
+sr:competition:5975,"ITF Women Dobrich, Bulgaria Women Doubles","ITF Women"
+sr:competition:5997,"Turkiye F26 Men Singles","ITF Men"
+sr:competition:5999,"Turkiye F26 Men Doubles","ITF Men"
+sr:competition:6031,"ITF Men Solin, Croatia Men Singles","ITF Men"
+sr:competition:6033,"ITF Men Solin, Croatia Men Doubles","ITF Men"
+sr:competition:6067,"ATP Challenger Shanghai, China Men Singles",Challenger
+sr:competition:6069,"ATP Challenger Shanghai, China Men Doubles",Challenger
+sr:competition:6097,"ITF Women Rock Hill, USA Women Singles","ITF Women"
+sr:competition:6099,"ITF Women Rock Hill, USA Women Doubles","ITF Women"
+sr:competition:6103,"ITF Men Mansfield, USA Men Singles","ITF Men"
+sr:competition:6105,"ITF Men Mansfield, USA Men Doubles","ITF Men"
+sr:competition:6109,"ATP Challenger Seoul, Korea Republic Men Doubles",Challenger
+sr:competition:6111,"ATP Challenger Seoul, Korea Republic Men Singles",Challenger
+sr:competition:6127,"ITF Spain F39 Men Singles","ITF Men"
+sr:competition:6129,"ITF Spain F39 Men Doubles","ITF Men"
+sr:competition:6151,"ATP Challenger Sao Leopoldo, Brazil Men Singles",Challenger
+sr:competition:6153,"ATP Challenger Sao Leopoldo, Brazil Men Doubles",Challenger
+sr:competition:6217,"ITF Men Temuco, Chile Men Singles","ITF Men"
+sr:competition:6219,"ITF Men Temuco, Chile Men Doubles","ITF Men"
+sr:competition:6251,"ITF Men Osorno, Chile Men Singles","ITF Men"
+sr:competition:6253,"ITF Men Osorno, Chile Men Doubles","ITF Men"
+sr:competition:6305,"ITF Women Vallduxo, Spain Women Singles","ITF Women"
+sr:competition:6307,"ITF Women Vallduxo, Spain Women Doubles","ITF Women"
+sr:competition:6317,"ITF Women Toyota, Japan Women Singles","ITF Women"
+sr:competition:6319,"ITF Women Toyota, Japan Women Doubles","ITF Women"
+sr:competition:6329,"ITF Men Astana, Kazakhstan Men Singles","ITF Men"
+sr:competition:6331,"ITF Men Astana, Kazakhstan Men Doubles","ITF Men"
+sr:competition:6395,"ITF Women Djibouti, Djibouti Women Singles","ITF Women"
+sr:competition:6397,"ITF Women Djibouti, Djibouti Women Doubles","ITF Women"
+sr:competition:6449,"ATP Sao Paulo, Brazil Men Singles",ATP
+sr:competition:6451,"ATP Sao Paulo, Brazil Men Doubles",ATP
+sr:competition:6455,"ATP Challenger Dallas, USA Men Singles",Challenger
+sr:competition:6457,"ATP Challenger Dallas, USA Men Doubles",Challenger
+sr:competition:6491,"WTA Brisbane, Australia Women Singles",WTA
+sr:competition:6493,"WTA Brisbane, Australia Women Doubles",WTA
+sr:competition:6497,"WTA Auckland, New Zealand Women Singles",WTA
+sr:competition:6499,"WTA Auckland, New Zealand Women Doubles",WTA
+sr:competition:6503,"WTA Sydney, Australia Women Singles",WTA
+sr:competition:6505,"WTA Sydney, Australia Women Doubles",WTA
+sr:competition:6521,"ITF Men Wirral, Great Britain Men Singles","ITF Men"
+sr:competition:6523,"ITF Men Wirral, Great Britain Men Doubles","ITF Men"
+sr:competition:6575,"ITF Men Feucherolles, France Men Singles","ITF Men"
+sr:competition:6577,"ITF Men Feucherolles, France Men Doubles","ITF Men"
+sr:competition:6581,"ITF Men Guatemala City, Guatemala Men Singles","ITF Men"
+sr:competition:6583,"ITF Men Guatemala City, Guatemala Men Doubles","ITF Men"
+sr:competition:6629,"ITF Men Yuxi, China Men Singles","ITF Men"
+sr:competition:6631,"ITF Men Yuxi, China Men Doubles","ITF Men"
+sr:competition:6701,"ITF Men Itajai, Brazil Men Singles","ITF Men"
+sr:competition:6703,"ITF Men Itajai, Brazil Men Doubles","ITF Men"
+sr:competition:6707,"ATP Challenger Florianopolis, Brazil Men Singles",Challenger
+sr:competition:6709,"ATP Challenger Florianopolis, Brazil Men Doubles",Challenger
+sr:competition:6809,"ITF Men Bath, Great Britain Men Singles","ITF Men"
+sr:competition:6811,"ITF Men Bath, Great Britain Men Doubles","ITF Men"
+sr:competition:6845,"ITF Men Saint-Raphael, France Men Singles","ITF Men"
+sr:competition:6847,"ITF Men Saint-Raphael, France Men Doubles","ITF Men"
+sr:competition:6917,"ITF Women Ribeirao Preto, Brazil Women Singles","ITF Women"
+sr:competition:6919,"ITF Women Ribeirao Preto, Brazil Women Doubles","ITF Women"
+sr:competition:6931,"ITF Women Osprey, USA Women Doubles","ITF Women"
+sr:competition:6941,"ITF Men Heraklion, Greece Men Singles","ITF Men"
+sr:competition:6943,"ITF Men Heraklion, Greece Men Doubles","ITF Men"
+sr:competition:6983,"ITF Women Algiers, Algeria Women Singles","ITF Women"
+sr:competition:6985,"ITF Women Algiers, Algeria Women Doubles","ITF Women"
+sr:competition:6995,"ATP Challenger Mersin, Turkey Men Singles",Challenger
+sr:competition:6997,"ATP Challenger Mersin, Turkey Men Doubles",Challenger
+sr:competition:7001,"ITF Women Antalya-Belconti, Turkey Women Singles","ITF Women"
+sr:competition:7003,"ITF Women Antalya-Belconti, Turkey Women Doubles","ITF Women"
+sr:competition:7007,"ITF Men Kaohsiung, Chinese Taipei Men Singles","ITF Men"
+sr:competition:7009,"ITF Men Kaohsiung, Chinese Taipei Men Doubles","ITF Men"
+sr:competition:7043,"ITF Women Tlemcen, Algeria Women Singles","ITF Women"
+sr:competition:7045,"ITF Women Tlemcen, Algeria Women Doubles","ITF Women"
+sr:competition:7055,"ATP Challenger Kaohsiung, Chinese Taipei Men Singles",Challenger
+sr:competition:7057,"ATP Challenger Kaohsiung, Chinese Taipei Men Doubles",Challenger
+sr:competition:7085,"ITF Men Cordoba, Mexico Men Singles","ITF Men"
+sr:competition:7087,"ITF Men Cordoba, Mexico Men Doubles","ITF Men"
+sr:competition:7115,"ITF Men Madurai, India Men Singles","ITF Men"
+sr:competition:7117,"ITF Men Madurai, India Men Doubles","ITF Men"
+sr:competition:7181,"ITF Men Chennai, India Men Singles","ITF Men"
+sr:competition:7183,"ITF Men Chennai, India Men Doubles","ITF Men"
+sr:competition:7199,"ITF Men Villa Allende, Argentina Men Singles","ITF Men"
+sr:competition:7201,"ITF Men Villa Allende, Argentina Men Doubles","ITF Men"
+sr:competition:7265,"ITF Men Bangkok, Thailand Men Singles","ITF Men"
+sr:competition:7267,"ITF Men Bangkok, Thailand Men Doubles","ITF Men"
+sr:competition:7331,"ITF Women Raleigh, USA Women Singles","ITF Women"
+sr:competition:7333,"ITF Women Raleigh, USA Women Doubles","ITF Women"
+sr:competition:7355,"ITF Men Mersin, Turkey Men Singles","ITF Men"
+sr:competition:7357,"ITF Men Mersin, Turkey Men Doubles","ITF Men"
+sr:competition:7391,"ITF Women Casablanca, Morocco Women Singles","ITF Women"
+sr:competition:7393,"ITF Women Casablanca, Morocco Women Doubles","ITF Women"
+sr:competition:7457,"ITF Women Maribor, Slovenia Women Singles","ITF Women"
+sr:competition:7459,"ITF Women Maribor, Slovenia Women Doubles","ITF Women"
+sr:competition:7481,"ITF Men Mandya, India Men Singles","ITF Men"
+sr:competition:7483,"ITF Men Mandya, India Men Doubles","ITF Men"
+sr:competition:7499,"ITF Men Rabat, Morocco Men Singles","ITF Men"
+sr:competition:7501,"ITF Men Rabat, Morocco Men Doubles","ITF Men"
+sr:competition:7505,"ITF Men Mysore, India Men Singles","ITF Men"
+sr:competition:7507,"ITF Men Mysore, India Men Doubles","ITF Men"
+sr:competition:7511,"ITF Men Maribor, Slovenia Men Singles","ITF Men"
+sr:competition:7513,"ITF Men Maribor, Slovenia Men Doubles","ITF Men"
+sr:competition:7625,"WTA S-Hertogenbosch, Netherlands Women Singles",WTA
+sr:competition:7627,"WTA S-Hertogenbosch, Netherlands Women Doubles",WTA
+sr:competition:7631,"ATP Eastbourne, Great Britain Men Singles",ATP
+sr:competition:7633,"ATP Eastbourne, Great Britain Men Doubles",ATP
+sr:competition:7721,"ITF Men Sapporo, Japan Men Singles","ITF Men"
+sr:competition:7723,"ITF Men Sapporo, Japan Men Doubles","ITF Men"
+sr:competition:7793,"ATP Challenger Lima, Peru Men Singles",Challenger
+sr:competition:7795,"ATP Challenger Lima, Peru Men Doubles",Challenger
+sr:competition:7799,"ATP Challenger Panama City, Panama Men Singles",Challenger
+sr:competition:7801,"ATP Challenger Panama City, Panama Men Doubles",Challenger
+sr:competition:7871,"WTA Bastad, Sweden Women Singles",WTA
+sr:competition:7873,"WTA Bastad, Sweden Women Doubles",WTA
+sr:competition:7949,"ATP Challenger Anning, China Men Singles",Challenger
+sr:competition:7951,"ATP Challenger Anning, China Men Doubles",Challenger
+sr:competition:7991,"ITF Men Coimbatore, India Men Singles","ITF Men"
+sr:competition:7993,"ITF Men Coimbatore, India Men Doubles","ITF Men"
+sr:competition:8009,"ITF Men Modena, Italy Men Singles","ITF Men"
+sr:competition:8011,"ITF Men Modena, Italy Men Doubles","ITF Men"
+sr:competition:8051,"ITF Men Felixstowe, Great Britain Men Singles","ITF Men"
+sr:competition:8053,"ITF Men Felixstowe, Great Britain Men Doubles","ITF Men"
+sr:competition:8081,"ITF Women Sao Jose do Rio Preto, Brazil Women Singles","ITF Women"
+sr:competition:8083,"ITF Women Sao Jose do Rio Preto, Brazil Women Doubles","ITF Women"
+sr:competition:8111,"ITF Women Viserba, Italy Women Singles","ITF Women"
+sr:competition:8113,"ITF Women Viserba, Italy Women Doubles","ITF Women"
+sr:competition:8177,"WTA Washington, USA Women Singles",WTA
+sr:competition:8179,"WTA Washington, USA Women Doubles",WTA
+sr:competition:8183,"Olympic Tournament Men Singles",ATP
+sr:competition:8185,"Olympic Tournament Men Doubles",ATP
+sr:competition:8187,"Olympic Tournament Women Singles",WTA
+sr:competition:8189,"Olympic Tournament Women Doubles",WTA
+sr:competition:8191,"Olympic Tournament Mixed Doubles",ATP
+sr:competition:8213,"ITF Men Ostend, Belgium Men Singles","ITF Men"
+sr:competition:8215,"ITF Men Ostend, Belgium Men Doubles","ITF Men"
+sr:competition:8279,"WTA Toronto, Canada Women Singles",WTA
+sr:competition:8281,"WTA Toronto, Canada Women Doubles",WTA
+sr:competition:8285,"ATP Montreal, Canada Men Singles",ATP
+sr:competition:8287,"ATP Montreal, Canada Men Doubles",ATP
+sr:competition:8291,"ATP Challenger Sibiu, Romania Men Singles",Challenger
+sr:competition:8293,"ATP Challenger Sibiu, Romania Men Doubles",Challenger
+sr:competition:8297,"ITF Men Friedberg, Germany Men Singles","ITF Men"
+sr:competition:8299,"ITF Men Friedberg, Germany Men Doubles","ITF Men"
+sr:competition:8345,"ITF Women Hechingen, Germany Women Singles","ITF Women"
+sr:competition:8347,"ITF Women Hechingen, Germany Women Doubles","ITF Women"
+sr:competition:8363,"WTA Cincinnati, USA Women Singles",WTA
+sr:competition:8365,"WTA Cincinnati, USA Women Doubles",WTA
+sr:competition:8369,"ITF Women Innsbruck, Austria Women Singles","ITF Women"
+sr:competition:8371,"ITF Women Innsbruck, Austria Women Doubles","ITF Women"
+sr:competition:8381,"ITF Women Westende, Belgium Women Singles","ITF Women"
+sr:competition:8383,"ITF Women Westende, Belgium Women Doubles","ITF Women"
+sr:competition:8423,"ITF Men Poertschach, Austria Men Singles","ITF Men"
+sr:competition:8425,"ITF Men Poertschach, Austria Men Doubles","ITF Men"
+sr:competition:8447,"ITF Men Winnipeg, Canada Men Singles","ITF Men"
+sr:competition:8449,"ITF Men Winnipeg, Canada Men Doubles","ITF Men"
+sr:competition:8453,"ITF Men Medellin, Colombia Men Singles","ITF Men"
+sr:competition:8455,"ITF Men Medellin, Colombia Men Doubles","ITF Men"
+sr:competition:8459,"ITF Women Poertschach, Austria Women Singles","ITF Women"
+sr:competition:8461,"ITF Women Poertschach, Austria Women Doubles","ITF Women"
+sr:competition:8471,"ITF Women San Luis Potosi, Mexico Women Singles","ITF Women"
+sr:competition:8473,"ITF Women San Luis Potosi, Mexico Women Doubles","ITF Women"
+sr:competition:8495,"ITF Men Kenn, Germany Men Singles","ITF Men"
+sr:competition:8497,"ITF Men Kenn, Germany Men Doubles","ITF Men"
+sr:competition:8501,"ITF Men St. Poelten, Austria Men Singles","ITF Men"
+sr:competition:8503,"ITF Men St. Poelten, Austria Men Doubles","ITF Men"
+sr:competition:8585,"ITF Men Alice Springs, Australia Men Singles","ITF Men"
+sr:competition:8587,"ITF Men Alice Springs, Australia Men Doubles","ITF Men"
+sr:competition:8597,"ITF Men La Rioja, Argentina Men Singles","ITF Men"
+sr:competition:8599,"ITF Men La Rioja, Argentina Men Doubles","ITF Men"
+sr:competition:8603,"ITF Men Manzanillo, Mexico Men Singles","ITF Men"
+sr:competition:8605,"ITF Men Manzanillo, Mexico Men Doubles","ITF Men"
+sr:competition:8639,"ITF Women Engis, Belgium Women Singles","ITF Women"
+sr:competition:8641,"ITF Women Engis, Belgium Women Doubles","ITF Women"
+sr:competition:8645,"ATP Challenger Tashkent, Uzbekistan Men Singles",Challenger
+sr:competition:8647,"ATP Challenger Tashkent, Uzbekistan Men Doubles",Challenger
+sr:competition:8711,"ITF Women Pereira, Colombia Women Singles","ITF Women"
+sr:competition:8713,"ITF Women Pereira, Colombia Women Doubles","ITF Women"
+sr:competition:8735,"ITF Men Danderyd-Stockholm, Sweden Men Singles","ITF Men"
+sr:competition:8737,"ITF Men Danderyd-Stockholm, Sweden Men Doubles","ITF Men"
+sr:competition:8747,"ITF Men Costa Mesa, USA Men Singles","ITF Men"
+sr:competition:8749,"ITF Men Costa Mesa, USA Men Doubles","ITF Men"
+sr:competition:8777,"ITF Men Markham, Canada Men Singles","ITF Men"
+sr:competition:8779,"ITF Men Markham, Canada Men Doubles","ITF Men"
+sr:competition:8795,"ITF Men Hambach, Germany Men Singles","ITF Men"
+sr:competition:8797,"ITF Men Hambach, Germany Men Doubles","ITF Men"
+sr:competition:8813,"ITF Men Belem, Brazil Men Singles","ITF Men"
+sr:competition:8815,"ITF Men Belem, Brazil Men Doubles","ITF Men"
+sr:competition:8819,"ITF Men Irvine, USA Men Singles","ITF Men"
+sr:competition:8821,"ITF Men Irvine, USA Men Doubles","ITF Men"
+sr:competition:8843,"WTA Beijing, China Women Singles",WTA
+sr:competition:8845,"WTA Beijing, China Women Doubles",WTA
+sr:competition:8867,"ITF Men Villavicencio, Colombia Men Singles","ITF Men"
+sr:competition:8869,"ITF Men Villavicencio, Colombia Men Doubles","ITF Men"
+sr:competition:8885,"ITF Women Gainesville, USA Women Singles","ITF Women"
+sr:competition:8887,"ITF Women Gainesville, USA Women Doubles","ITF Women"
+sr:competition:8921,"ITF Men Annaba, Algeria Men Singles","ITF Men"
+sr:competition:8923,"ITF Men Annaba, Algeria Men Doubles","ITF Men"
+sr:competition:8939,"ITF Women Mytilini, Greece Women Singles","ITF Women"
+sr:competition:8941,"ITF Women Mytilini, Greece Women Doubles","ITF Women"
+sr:competition:8963,"WTA Moscow, Russia Women Singles",WTA
+sr:competition:8965,"WTA Moscow, Russia Women Doubles",WTA
+sr:competition:8975,"ATP Challenger Rio de Janeiro, Brazil Men Singles",Challenger
+sr:competition:8977,"ATP Challenger Rio de Janeiro, Brazil Men Doubles",Challenger
+sr:competition:9011,"ATP Challenger Porto Alegre, Brazil Men Singles",Challenger
+sr:competition:9013,"ATP Challenger Porto Alegre, Brazil Men Doubles",Challenger
+sr:competition:9029,"ITF Men Mumbai, India Men Singles","ITF Men"
+sr:competition:9031,"ITF Men Mumbai, India Men Doubles","ITF Men"
+sr:competition:9041,"ITF Men Santa Maria, Brazil Men Singles","ITF Men"
+sr:competition:9043,"ITF Men Santa Maria, Brazil Men Doubles","ITF Men"
+sr:competition:9077,"ITF Women Victoria, Mexico Women Singles","ITF Women"
+sr:competition:9079,"ITF Women Victoria, Mexico Women Doubles","ITF Women"
+sr:competition:9119,"ITF Women Barnstaple, Great Britain Women Singles","ITF Women"
+sr:competition:9121,"ITF Women Barnstaple, Great Britain Women Doubles","ITF Women"
+sr:competition:9137,"WTA 125K Taipei, Chinese Taipei Women Singles","WTA 125K"
+sr:competition:9139,"WTA 125K Taipei, Chinese Taipei Women Doubles","WTA 125K"
+sr:competition:9173,"ATP Challenger Marbella, Spain Men Singles",Challenger
+sr:competition:9175,"ATP Challenger Marbella, Spain Men Doubles",Challenger
+sr:competition:9179,"ATP Challenger Yokohama, Japan Men Singles",Challenger
+sr:competition:9181,"ATP Challenger Yokohama, Japan Men Doubles",Challenger
+sr:competition:9245,"ITF Men Phnom Penh, Cambodia Men Singles","ITF Men"
+sr:competition:9247,"ITF Men Phnom Penh, Cambodia Men Doubles","ITF Men"
+sr:competition:9299,"ITF Men Porto Alegre, Brazil Men Singles","ITF Men"
+sr:competition:9301,"ITF Men Porto Alegre, Brazil Men Doubles","ITF Men"
+sr:competition:9329,"WTA Shenzhen, China Women Singles",WTA
+sr:competition:9331,"WTA Shenzhen, China Women Doubles",WTA
+sr:competition:9353,"ATP Challenger Maui, USA Men Singles",Challenger
+sr:competition:9355,"ATP Challenger Maui, USA Men Doubles",Challenger
+sr:competition:9419,"WTA 125K Cali, Colombia Women Singles","WTA 125K"
+sr:competition:9421,"WTA 125K Cali, Colombia Women Doubles","WTA 125K"
+sr:competition:9455,"WTA Florianopolis, Brazil Women Singles",WTA
+sr:competition:9457,"WTA Florianopolis, Brazil Women Doubles",WTA
+sr:competition:9461,"ATP Challenger Sydney, Australia Men Singles",Challenger
+sr:competition:9463,"ATP Challenger Sydney, Australia Men Doubles",Challenger
+sr:competition:9467,"ITF Men Pereira, Colombia Men Singles","ITF Men"
+sr:competition:9469,"ITF Men Pereira, Colombia Men Doubles","ITF Men"
+sr:competition:9497,"ITF Men Bogota, Colombia Men Singles","ITF Men"
+sr:competition:9499,"ITF Men Bogota, Colombia Men Doubles","ITF Men"
+sr:competition:9503,"ITF Men Nishi Tama, Japan Men Singles","ITF Men"
+sr:competition:9539,"ITF Women Hyderabad, India Women Singles","ITF Women"
+sr:competition:9541,"ITF Women Hyderabad, India Women Doubles","ITF Women"
+sr:competition:9563,"ITF Men Taverne, Switzerland Men Singles","ITF Men"
+sr:competition:9565,"ITF Men Taverne, Switzerland Men Doubles","ITF Men"
+sr:competition:9623,"ATP Challenger Itajai, Brazil Men Singles",Challenger
+sr:competition:9629,"WTA Katowice, Poland Women Singles",WTA
+sr:competition:9631,"WTA Katowice, Poland Women Doubles",WTA
+sr:competition:9641,"ATP Challenger Mexico City, Mexico Men Singles",Challenger
+sr:competition:9643,"ATP Challenger Mexico City, Mexico Men Doubles",Challenger
+sr:competition:9647,"ITF Men Sharm El Sheikh, Egypt Men Singles","ITF Men"
+sr:competition:9649,"ITF Men Sharm El Sheikh, Egypt Men Doubles","ITF Men"
+sr:competition:9659,"ITF Women Lucknow, India Women Singles","ITF Women"
+sr:competition:9661,"ITF Women Lucknow, India Women Doubles","ITF Women"
+sr:competition:9665,"ATP Bogota, Colombia Men Singles",ATP
+sr:competition:9667,"ATP Bogota, Colombia Men Doubles",ATP
+sr:competition:9677,"WTA Nuremberg, Germany Women Singles",WTA
+sr:competition:9679,"WTA Nuremberg, Germany Women Doubles",WTA
+sr:competition:9695,"ITF Women Seoul, South Korea Women Singles","ITF Women"
+sr:competition:9697,"ITF Women Seoul, South Korea Women Doubles","ITF Women"
+sr:competition:9731,"ITF Men Maracay, Venezuela Men Singles","ITF Men"
+sr:competition:9733,"ITF Men Maracay, Venezuela Men Doubles","ITF Men"
+sr:competition:9737,"ITF Women Ramat Hasharon, Israel Women Singles","ITF Women"
+sr:competition:9739,"ITF Women Ramat Hasharon, Israel Women Doubles","ITF Women"
+sr:competition:9779,"ITF Men Maracaibo, Venezuela Men Singles","ITF Men"
+sr:competition:9781,"ITF Men Maracaibo, Venezuela Men Doubles","ITF Men"
+sr:competition:9791,"ITF Women Balikpapan, Indonesia Women Singles","ITF Women"
+sr:competition:9793,"ITF Women Balikpapan, Indonesia Women Doubles","ITF Women"
+sr:competition:9803,"ITF Men Putian, China Men Singles","ITF Men"
+sr:competition:9805,"ITF Men Putian, China Men Doubles","ITF Men"
+sr:competition:9809,"ITF Men Coimbra, Portugal Men Singles","ITF Men"
+sr:competition:9811,"ITF Men Coimbra, Portugal Men Doubles","ITF Men"
+sr:competition:9815,"ITF Women Tarakan, Indonesia Women Singles","ITF Women"
+sr:competition:9817,"ITF Women Tarakan, Indonesia Women Doubles","ITF Women"
+sr:competition:9875,"ITF Women Adana, Turkey Women Singles","ITF Women"
+sr:competition:9877,"ITF Women Adana, Turkey Women Doubles","ITF Women"
+sr:competition:9929,"ATP Challenger Blois, France Men Singles",Challenger
+sr:competition:9931,"ATP Challenger Blois, France Men Doubles",Challenger
+sr:competition:9953,"ITF Men Litija, Slovenia Men Singles","ITF Men"
+sr:competition:9955,"ITF Men Litija, Slovenia Men Doubles","ITF Men"
+sr:competition:10025,"ITF Men Stara Zagora, Bulgaria Men Singles","ITF Men"
+sr:competition:10027,"ITF Men Stara Zagora, Bulgaria Men Doubles","ITF Men"
+sr:competition:10031,"ITF Men Sibiu, Romania Men Singles","ITF Men"
+sr:competition:10033,"ITF Men Sibiu, Romania Men Doubles","ITF Men"
+sr:competition:10037,"ITF Men Busto Arsizio, Italy Men Singles","ITF Men"
+sr:competition:10039,"ITF Men Busto Arsizio, Italy Men Doubles","ITF Men"
+sr:competition:10043,"ITF Men Sabac, Serbia Men Singles","ITF Men"
+sr:competition:10045,"ITF Men Sabac, Serbia Men Doubles","ITF Men"
+sr:competition:10055,"ITF Men Seefeld, Austria Men Singles","ITF Men"
+sr:competition:10057,"ITF Men Seefeld, Austria Men Doubles","ITF Men"
+sr:competition:10073,"ATP Challenger Portoroz, Slovenia Men Singles",Challenger
+sr:competition:10075,"ATP Challenger Portoroz, Slovenia Men Doubles",Challenger
+sr:competition:10091,"ITF Men Focsani, Romania Men Singles","ITF Men"
+sr:competition:10093,"ITF Men Focsani, Romania Men Doubles","ITF Men"
+sr:competition:10151,"ATP Challenger Eskisehir, Turkey Men Singles",Challenger
+sr:competition:10153,"ATP Challenger Eskisehir, Turkey Men Doubles",Challenger
+sr:competition:10157,"ITF Men Tallinn, Estonia Men Singles","ITF Men"
+sr:competition:10159,"ITF Men Tallinn, Estonia Men Doubles","ITF Men"
+sr:competition:10181,"ITF Women Campos Do Jordao, Brazil Women Singles","ITF Women"
+sr:competition:10183,"ITF Women Campos Do Jordao, Brazil Women Doubles","ITF Women"
+sr:competition:10223,"ITF Men Misiones, Argentina Men Singles","ITF Men"
+sr:competition:10225,"ITF Men Misiones, Argentina Men Doubles","ITF Men"
+sr:competition:10253,"ATP Challenger Liberec, Czech Republic Men Singles",Challenger
+sr:competition:10255,"ATP Challenger Liberec, Czech Republic Men Doubles",Challenger
+sr:competition:10283,"ITF Men Sleza, Poland Men Singles","ITF Men"
+sr:competition:10285,"ITF Men Sleza, Poland Men Doubles","ITF Men"
+sr:competition:10313,"ITF Men Bejar, Spain Men Singles","ITF Men"
+sr:competition:10315,"ITF Men Bejar, Spain Men Doubles","ITF Men"
+sr:competition:10343,"ATP Challenger Meerbusch, Germany Men Singles",Challenger
+sr:competition:10345,"ATP Challenger Meerbusch, Germany Men Doubles",Challenger
+sr:competition:10379,"ITF Men Geneva, Switzerland Men Singles","ITF Men"
+sr:competition:10381,"ITF Men Geneva, Switzerland Men Doubles","ITF Men"
+sr:competition:10421,"ITF Women Brcko, Bosnia & Herzegovina Women Singles","ITF Women"
+sr:competition:10423,"ITF Women Brcko, Bosnia & Herzegovina Women Doubles","ITF Women"
+sr:competition:10439,"ITF Men Medias, Romania Men Singles","ITF Men"
+sr:competition:10441,"ITF Men Medias, Romania Men Doubles","ITF Men"
+sr:competition:10451,"ITF Men Este, Italy Men Singles","ITF Men"
+sr:competition:10453,"ITF Men Este, Italy Men Doubles","ITF Men"
+sr:competition:10457,"ITF Men Jupille-Sur-Meuse, Belgium Men Singles","ITF Men"
+sr:competition:10459,"ITF Men Jupille-Sur-Meuse, Belgium Men Doubles","ITF Men"
+sr:competition:10475,"ITF Men Libreville, Gabon Men Singles","ITF Men"
+sr:competition:10477,"ITF Men Libreville, Gabon Men Doubles","ITF Men"
+sr:competition:10487,"ITF Men Campos Do Jordao, Brazil Men Singles","ITF Men"
+sr:competition:10489,"ITF Men Campos Do Jordao, Brazil Men Doubles","ITF Men"
+sr:competition:10493,"ITF Men Manizales, Colombia Men Singles","ITF Men"
+sr:competition:10495,"ITF Men Manizales, Colombia Men Doubles","ITF Men"
+sr:competition:10517,"ITF Men Damme, Belgium Men Singles","ITF Men"
+sr:competition:10519,"ITF Men Damme, Belgium Men Doubles","ITF Men"
+sr:competition:10529,"ITF Men Lausanne, Switzerland Men Singles","ITF Men"
+sr:competition:10531,"ITF Men Lausanne, Switzerland Men Doubles","ITF Men"
+sr:competition:10535,"ITF Men Quito, Ecuador Men Singles","ITF Men"
+sr:competition:10537,"ITF Men Quito, Ecuador Men Doubles","ITF Men"
+sr:competition:10643,"ATP Challenger Kenitra, Morocco Men Singles",Challenger
+sr:competition:10645,"ATP Challenger Kenitra, Morocco Men Doubles",Challenger
+sr:competition:10655,"ATP Challenger Porto, Portugal Men Singles",Challenger
+sr:competition:10657,"ATP Challenger Porto, Portugal Men Doubles",Challenger
+sr:competition:10673,"ITF Men Nis, Serbia Men Singles","ITF Men"
+sr:competition:10675,"ITF Men Nis, Serbia Men Doubles","ITF Men"
+sr:competition:10685,"ITF Men Sokobanja, Serbia Men Singles","ITF Men"
+sr:competition:10687,"ITF Men Sokobanja, Serbia Men Doubles","ITF Men"
+sr:competition:10703,"ITF Men Cochabamba, Bolivia Men Singles","ITF Men"
+sr:competition:10705,"ITF Men Cochabamba, Bolivia Men Doubles","ITF Men"
+sr:competition:10757,"ITF Women Albena, Bulgaria Women Singles","ITF Women"
+sr:competition:10759,"ITF Women Albena, Bulgaria Women Doubles","ITF Women"
+sr:competition:10781,"ITF Men Sant Cugat, Spain Men Singles","ITF Men"
+sr:competition:10783,"ITF Men Sant Cugat, Spain Men Doubles","ITF Men"
+sr:competition:10823,"ATP Challenger Mouilleron-Le-Captif, France Men Singles",Challenger
+sr:competition:10825,"ATP Challenger Mouilleron-Le-Captif, France Men Doubles",Challenger
+sr:competition:10895,"ATP Challenger Traralgon, Australia Men Singles",Challenger
+sr:competition:10897,"ATP Challenger Traralgon, Australia Men Doubles",Challenger
+sr:competition:10949,"ATP Challenger Andria, Italy Men Singles",Challenger
+sr:competition:10951,"ATP Challenger Andria, Italy Men Doubles",Challenger
+sr:competition:10967,"ITF Men Nicosia, Cyprus Men Singles","ITF Men"
+sr:competition:10969,"ITF Men Nicosia, Cyprus Men Doubles","ITF Men"
+sr:competition:10973,"ITF Men Popayan, Colombia Men Singles","ITF Men"
+sr:competition:10975,"ITF Men Popayan, Colombia Men Doubles","ITF Men"
+sr:competition:11003,"ITF Men Bol, Croatia Men Singles","ITF Men"
+sr:competition:11005,"ITF Men Bol, Croatia Men Doubles","ITF Men"
+sr:competition:11033,"ITF Men Raipur, India Men Singles","ITF Men"
+sr:competition:11035,"ITF Men Raipur, India Men Doubles","ITF Men"
+sr:competition:11051,"ITF Women Monterrey, Mexico Women Singles","ITF Women"
+sr:competition:11053,"ITF Women Monterrey, Mexico Women Doubles","ITF Women"
+sr:competition:11057,"ITF Men Larnaca, Cyprus Men Singles","ITF Men"
+sr:competition:11059,"ITF Men Larnaca, Cyprus Men Doubles","ITF Men"
+sr:competition:11081,"ITF Women Duino Aurisina, Italy Women Singles","ITF Women"
+sr:competition:11083,"ITF Women Duino Aurisina, Italy Women Doubles","ITF Women"
+sr:competition:11105,"WTA Rio de Janeiro, Brazil Women Singles",WTA
+sr:competition:11107,"WTA Rio de Janeiro, Brazil Women Doubles",WTA
+sr:competition:11111,"WTA Hong Kong, Hong Kong Women Singles",WTA
+sr:competition:11113,"WTA Hong Kong, Hong Kong Women Doubles",WTA
+sr:competition:11117,"WTA Wuhan, China Women Singles",WTA
+sr:competition:11119,"WTA Wuhan, China Women Doubles",WTA
+sr:competition:11123,"ATP Shenzhen, China Men Singles",ATP
+sr:competition:11125,"ATP Shenzhen, China Men Doubles",ATP
+sr:competition:11129,"ATP Rio de Janeiro, Brazil Men Singles",ATP
+sr:competition:11131,"ATP Rio de Janeiro, Brazil Men Doubles",ATP
+sr:competition:11183,"ATP Challenger Chennai, India Men Singles",Challenger
+sr:competition:11185,"ATP Challenger Chennai, India Men Doubles",Challenger
+sr:competition:11201,"ATP Challenger Kolkata, India Men Singles",Challenger
+sr:competition:11203,"ATP Challenger Kolkata, India Men Doubles",Challenger
+sr:competition:11225,"ATP Challenger Morelos, Mexico Men Singles",Challenger
+sr:competition:11227,"ATP Challenger Morelos, Mexico Men Doubles",Challenger
+sr:competition:11231,"ATP Challenger New Delhi, India Men Singles",Challenger
+sr:competition:11233,"ATP Challenger New Delhi, India Men Doubles",Challenger
+sr:competition:11267,"ITF Men Kish, Iran Men Singles","ITF Men"
+sr:competition:11269,"ITF Men Kish, Iran Men Doubles","ITF Men"
+sr:competition:11285,"ITF Men Bhimavaram, India Men Singles","ITF Men"
+sr:competition:11287,"ITF Men Bhimavaram, India Men Doubles","ITF Men"
+sr:competition:11297,"ATP Challenger Irving, USA Men Singles",Challenger
+sr:competition:11299,"ATP Challenger Irving, USA Men Doubles",Challenger
+sr:competition:11333,"ITF Men Manila, Philippines Men Singles","ITF Men"
+sr:competition:11335,"ITF Men Manila, Philippines Men Doubles","ITF Men"
+sr:competition:11355,"ITF Men Melbourne, Australia Men Singles","ITF Men"
+sr:competition:11357,"ITF Men Melbourne, Australia Men Doubles","ITF Men"
+sr:competition:11367,"ITF Men Oran, Algeria Men Singles","ITF Men"
+sr:competition:11369,"ITF Men Oran, Algeria Men Doubles","ITF Men"
+sr:competition:11397,"ITF Men Algiers, Algeria Men Singles","ITF Men"
+sr:competition:11399,"ITF Men Algiers, Algeria Men Doubles","ITF Men"
+sr:competition:11403,"ITF Women Melbourne, Australia Women Singles","ITF Women"
+sr:competition:11405,"ITF Women Melbourne, Australia Women Doubles","ITF Women"
+sr:competition:11423,"ITF Men Karshi, Uzbekistan Men Doubles","ITF Men"
+sr:competition:11427,"ATP Challenger Shenzhen, China Men Singles",Challenger
+sr:competition:11429,"ATP Challenger Shenzhen, China Men Doubles",Challenger
+sr:competition:11433,"ATP Challenger Vercelli, Italy Men Singles",Challenger
+sr:competition:11435,"ATP Challenger Vercelli, Italy Men Doubles",Challenger
+sr:competition:11439,"ITF Men Queretaro, Mexico Men Singles","ITF Men"
+sr:competition:11441,"ITF Men Queretaro, Mexico Men Doubles","ITF Men"
+sr:competition:11463,"ATP Challenger Taipei, Chinese Taipei Men Singles",Challenger
+sr:competition:11465,"ATP Challenger Taipei, Chinese Taipei Men Doubles",Challenger
+sr:competition:11493,"ATP Challenger Gimcheon, Korea Rep. Men Singles",Challenger
+sr:competition:11495,"ATP Challenger Gimcheon, Korea Rep. Men Doubles",Challenger
+sr:competition:11499,"ATP Challenger Aix en Provence, France Men Singles",Challenger
+sr:competition:11501,"ATP Challenger Aix en Provence, France Men Doubles",Challenger
+sr:competition:11505,"ITF Men Galati, Romania Men Singles","ITF Men"
+sr:competition:11507,"ITF Men Galati, Romania Men Doubles","ITF Men"
+sr:competition:11577,"ATP Challenger Mestre, Italy Men Singles",Challenger
+sr:competition:11579,"ATP Challenger Mestre, Italy Men Doubles",Challenger
+sr:competition:11583,"ATP Challenger Mohammedia, Morocco Men Singles",Challenger
+sr:competition:11585,"ATP Challenger Mohammedia, Morocco Men Doubles",Challenger
+sr:competition:11589,"ATP Challenger Nanchang, China Men Singles",Challenger
+sr:competition:11591,"ATP Challenger Nanchang, China Men Doubles",Challenger
+sr:competition:11595,"ATP Challenger Padova, Italy Men Singles",Challenger
+sr:competition:11597,"ATP Challenger Padova, Italy Men Doubles",Challenger
+sr:competition:11601,"ATP Challenger Vicenza, Italy Men Singles",Challenger
+sr:competition:11603,"ATP Challenger Vicenza, Italy Men Doubles",Challenger
+sr:competition:11805,"WTA Bucharest, Romania Women Singles","WTA 125K"
+sr:competition:11807,"WTA Bucharest, Romania Women Doubles","WTA 125K"
+sr:competition:11841,"WTA 125K Nanchang, China Women Singles","WTA 125K"
+sr:competition:11843,"WTA 125K Nanchang, China Women Doubles","WTA 125K"
+sr:competition:11859,"ITF Men Chaco, Argentina Men Singles","ITF Men"
+sr:competition:11861,"ITF Men Chaco, Argentina Men Doubles","ITF Men"
+sr:competition:11871,"ATP Challenger Cortina, Italy Men Singles",Challenger
+sr:competition:11873,"ATP Challenger Cortina, Italy Men Doubles",Challenger
+sr:competition:11913,"ITF Women Santa Fe, Argentina Women Singles","ITF Women"
+sr:competition:11915,"ITF Women Santa Fe, Argentina Women Doubles","ITF Women"
+sr:competition:11955,"ITF Men Tehran, Iran Men Singles","ITF Men"
+sr:competition:11957,"ITF Men Tehran, Iran Men Doubles","ITF Men"
+sr:competition:12015,"ITF Men Vsevolozhsk, Russia Men Singles","ITF Men"
+sr:competition:12017,"ITF Men Vsevolozhsk, Russia Men Doubles","ITF Men"
+sr:competition:12045,"ATP Challenger Brescia, Italy Men Singles",Challenger
+sr:competition:12047,"ATP Challenger Brescia, Italy Men Doubles",Challenger
+sr:competition:12051,"ATP Challenger Cordoba, Argentina Men Singles",Challenger
+sr:competition:12053,"ATP Challenger Cordoba, Argentina Men Doubles",Challenger
+sr:competition:12057,"ATP Challenger Pune, India Men Singles",Challenger
+sr:competition:12059,"ATP Challenger Pune, India Men Doubles",Challenger
+sr:competition:12063,"WTA 125K Limoges, France Women Singles","WTA 125K"
+sr:competition:12065,"WTA 125K Limoges, France Women Doubles","WTA 125K"
+sr:competition:12117,"WTA Tianjin, China Women Singles",WTA
+sr:competition:12119,"WTA Tianjin, China Women Doubles",WTA
+sr:competition:12177,"ITF Men Wollongong, Australia Men Singles","ITF Men"
+sr:competition:12179,"ITF Men Wollongong, Australia Men Doubles","ITF Men"
+sr:competition:12183,"ITF Men Gwalior, India Men Singles","ITF Men"
+sr:competition:12185,"ITF Men Gwalior, India Men Doubles","ITF Men"
+sr:competition:12201,"ATP Challenger Happy Valley, Australia Men Singles",Challenger
+sr:competition:12203,"ATP Challenger Happy Valley, Australia Men Doubles",Challenger
+sr:competition:12207,"ATP Challenger Hong Kong, Hong Kong Men Singles",Challenger
+sr:competition:12209,"ATP Challenger Hong Kong, Hong Kong Men Doubles",Challenger
+sr:competition:12219,"ITF Men Santiago de los Caballeros, Dominican Republic Men Singles","ITF Men"
+sr:competition:12221,"ITF Men Santiago de los Caballeros, Dominican Republic Men Doubles","ITF Men"
+sr:competition:12229,IPTL,IPTL
+sr:competition:12241,"World Tennis Championship Men Singles",Exhibition
+sr:competition:12255,"ATP Challenger Glasgow, Great Britain Men Singles",Challenger
+sr:competition:12257,"ATP Challenger Glasgow, Great Britain Men Doubles",Challenger
+sr:competition:12279,"ATP Challenger Santo Domingo, Dominican Republic Men Singles",Challenger
+sr:competition:12281,"ATP Challenger Santo Domingo, Dominican Republic Men Doubles",Challenger
+sr:competition:12285,"ATP Challenger Wroclaw, Poland Men Singles",Challenger
+sr:competition:12287,"ATP Challenger Wroclaw, Poland Men Doubles",Challenger
+sr:competition:12291,"ATP Challenger Drummondville, Canada Men Singles",Challenger
+sr:competition:12293,"ATP Challenger Drummondville, Canada Men Doubles",Challenger
+sr:competition:12297,"ATP Challenger Raanana, Israel Men Singles",Challenger
+sr:competition:12299,"ATP Challenger Raanana, Israel Men Doubles",Challenger
+sr:competition:12309,"ATP Challenger Launceston, Australia Men Singles",Challenger
+sr:competition:12311,"ATP Challenger Launceston, Australia Men Doubles",Challenger
+sr:competition:12315,"ATP Geneva, Switzerland Men Singles",ATP
+sr:competition:12317,"ATP Geneva, Switzerland Men Doubles",ATP
+sr:competition:12321,"ATP Istanbul, Turkey Men Singles",ATP
+sr:competition:12323,"ATP Istanbul, Turkey Men Doubles",ATP
+sr:competition:12327,"ATP Quito, Ecuador Men Singles",ATP
+sr:competition:12329,"ATP Quito, Ecuador Men Doubles",ATP
+sr:competition:12333,"WTA Nottingham, Great Britain Women Singles",WTA
+sr:competition:12335,"WTA Nottingham, Great Britain Women Doubles",WTA
+sr:competition:12375,"ATP Challenger Batman, Turkey Men Singles",Challenger
+sr:competition:12377,"ATP Challenger Batman, Turkey Men Doubles",Challenger
+sr:competition:12381,"ATP Challenger Puebla, Mexico Men Singles",Challenger
+sr:competition:12383,"ATP Challenger Puebla, Mexico Men Doubles",Challenger
+sr:competition:12429,"ATP Challenger Ilkley, Great Britain Men Singles",Challenger
+sr:competition:12431,"ATP Challenger Ilkley, Great Britain Men Doubles",Challenger
+sr:competition:12435,"ATP Challenger Manchester, Great Britain Men Singles",Challenger
+sr:competition:12437,"ATP Challenger Manchester, Great Britain Men Doubles",Challenger
+sr:competition:12441,"ATP Challenger Surbiton, Great Britain Men Singles",Challenger
+sr:competition:12443,"ATP Challenger Surbiton, Great Britain Men Doubles",Challenger
+sr:competition:12447,"ATP Challenger Poprad Tatry, Slovakia Men Singles",Challenger
+sr:competition:12449,"ATP Challenger Poprad Tatry, Slovakia Men Doubles",Challenger
+sr:competition:12453,"ATP Challenger Perugia, Italy Men Singles",Challenger
+sr:competition:12455,"ATP Challenger Perugia, Italy Men Doubles",Challenger
+sr:competition:12459,"ATP Challenger Moscow, Russia Men Singles",Challenger
+sr:competition:12461,"ATP Challenger Moscow, Russia Men Doubles",Challenger
+sr:competition:12549,"ATP Estoril, Portugal Men Singles",ATP
+sr:competition:12551,"ATP Estoril, Portugal Men Doubles",ATP
+sr:competition:12657,"ITF Men Jassowal, India Men Singles","ITF Men"
+sr:competition:12659,"ITF Men Jassowal, India Men Doubles","ITF Men"
+sr:competition:12663,"ITF Women Eastbourne, Great Britain Women Singles","ITF Women"
+sr:competition:12665,"ITF Women Eastbourne, Great Britain Women Doubles","ITF Women"
+sr:competition:12687,"ITF Men Sarajevo, Bosnia/Herzegovina Men Singles","ITF Men"
+sr:competition:12689,"ITF Men Sarajevo, Bosnia/Herzegovina Men Doubles","ITF Men"
+sr:competition:12723,"ITF Women Grand Baie La Croisette, Mauritius Women Singles","ITF Women"
+sr:competition:12725,"ITF Women Grand Baie La Croisette, Mauritius Women Doubles","ITF Women"
+sr:competition:12741,"ITF Women Baton Rouge, USA Women Singles","ITF Women"
+sr:competition:12743,"ITF Women Baton Rouge, USA Women Doubles","ITF Women"
+sr:competition:12747,"ITF Women Kaohsiung, Chinese Taipei Women Singles","ITF Women"
+sr:competition:12749,"ITF Women Kaohsiung, Chinese Taipei Women Doubles","ITF Women"
+sr:competition:12819,"ITF Women Bursa, Turkey Women Singles","ITF Women"
+sr:competition:12821,"ITF Women Bursa, Turkey Women Doubles","ITF Women"
+sr:competition:12837,"ATP Challenger Manerbio, Italy Men Singles",Challenger
+sr:competition:12839,"ATP Challenger Manerbio, Italy Men Doubles",Challenger
+sr:competition:12843,"ATP Challenger Agri, Turkey Men Singles",Challenger
+sr:competition:12845,"ATP Challenger Agri, Turkey Men Doubles",Challenger
+sr:competition:12849,"ATP Challenger Cary, USA Men Singles",Challenger
+sr:competition:12851,"ATP Challenger Cary, USA Men Doubles",Challenger
+sr:competition:12855,"ATP Challenger Columbus, USA Men Singles",Challenger
+sr:competition:12857,"ATP Challenger Columbus, USA Men Doubles",Challenger
+sr:competition:12891,"WTA 125K Dalian, China Women Singles","WTA 125K"
+sr:competition:12893,"WTA 125K Dalian, China Women Doubles","WTA 125K"
+sr:competition:12897,"WTA 125K Carlsbad, USA Women Singles","WTA 125K"
+sr:competition:12899,"WTA 125K Carlsbad, USA Women Doubles","WTA 125K"
+sr:competition:12903,"WTA 125K Hua Hin, Thailand Women Singles","WTA 125K"
+sr:competition:12905,"WTA 125K Hua Hin, Thailand Women Doubles","WTA 125K"
+sr:competition:12909,"ITF Men Erzurum, Turkey Men Singles","ITF Men"
+sr:competition:12911,"ITF Men Erzurum, Turkey Men Doubles","ITF Men"
+sr:competition:12975,"ITF Women Graz, Austria Women Singles","ITF Women"
+sr:competition:12977,"ITF Women Graz, Austria Women Doubles","ITF Women"
+sr:competition:12981,"ITF Women Koper, Slovenia Women Singles","ITF Women"
+sr:competition:12983,"ITF Women Koper, Slovenia Women Doubles","ITF Women"
+sr:competition:12987,"ITF Women Cakovec, Croatia Women Singles","ITF Women"
+sr:competition:12989,"ITF Women Cakovec, Croatia Women Doubles","ITF Women"
+sr:competition:12999,"ITF Women Kiryat Gat, Israel Women Singles","ITF Women"
+sr:competition:13001,"ITF Women Kiryat Gat, Israel Women Doubles","ITF Women"
